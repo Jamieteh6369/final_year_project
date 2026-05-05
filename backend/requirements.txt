@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+torch
+transformers
+safetensors
+pydantic
+trafilatura
+beautifulsoup4
+nltk
+mitreattack-python
+streamlit
